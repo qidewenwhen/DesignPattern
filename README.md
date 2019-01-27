@@ -1,2 +1,2 @@
 # DesignPattern
-Java + Design Pattern
+Design Pattern implemented by Java and Python
